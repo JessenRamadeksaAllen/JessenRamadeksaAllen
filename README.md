@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://s.id/PortoRafid)
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://www.instagram.com/chenaallen/?igsh=MWU1NXc1bXY1ejRmcw%3D%3D&utm_source=qr)
 
 <h1 align="center">Hi 👋, I'm Jessen Ramadeksa Allen</h1>
 <h3 align="center">BSc Computer Science student at the University of Lampung - Indonesia</h3>
