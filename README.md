@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://www.linkedin.com/in/jessen-ramadeksa-allen/](https://docs.google.com/document/d/1XPgzSdPsbfux85kxVsZNSyAoYSzKR_f6eqRUn1gKrgs/edit?usp=sharing)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jessen Ramadeksa Allen" height="30" width="40" /></a>
-<a href="https://instagram.com/JessenRamadeksaAllen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JessenRamadeksaAllen" height="30" width="40" /></a>
+<a href="[https://instagram.com/JessenRamadeksaAllen](https://www.instagram.com/chenaallen/?igsh=MWU1NXc1bXY1ejRmcw%3D%3D&utm_source=qr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JessenRamadeksaAllen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
