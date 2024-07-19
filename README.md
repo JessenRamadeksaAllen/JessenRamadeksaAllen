@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)]()
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](www.linkedin.com/in/jessen-ramadeksa-allen-7099b8312)
 
 <h1 align="center">Hi 👋, I'm Jessen Ramadeksa Allen</h1>
 <h3 align="center">BSc Computer Science student at the University of Lampung - Indonesia</h3>
